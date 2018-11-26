@@ -1,0 +1,20 @@
+{
+  "name": "discord-chat-bot",
+  "version": "0.0.2",
+  "description": "A chat bot for Discord.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "SnaBe",
+  "license": "ISC"
+}
