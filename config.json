@@ -1,0 +1,9 @@
+{
+	"client": {
+	  "token": "your-bots-token"
+	},
+	"server": {
+	  "inviteUrl": "url-to-invite.your-bot-to-a-server",
+	  "generalChannelID": "listed-in-console"
+	}
+}
